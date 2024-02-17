@@ -1,0 +1,16 @@
+[package]
+name = "1234"
+webhook_name = "1234"
+secret = ""
+
+[origin]
+url = ""
+endpoint_type = "github"
+
+[destination]
+url = ""
+
+[destination.auth.pwd]
+username = ""
+password = ""
+
